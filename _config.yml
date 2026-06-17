@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Simon K. Camponuri"
+title                    : "Simon Camponuri"
 title_separator          : "-"
-name                     : &name "Simon K. Camponuri"
+name                     : &name "Simon Camponuri"
 description              : &description "Environmental epidemiologist studying climate-sensitive infectious diseases, extreme weather, and population health"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://simonkcampo.github.io"
