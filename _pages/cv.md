@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Environmental Health Sciences, University of California, Berkeley, 2026
+* MPH in Environmental Health Sciences, University of California, Berkeley, 2022
+* B.A. in Integrative Biology, University of California, Berkeley, 2017
 
 Work experience
 ======
